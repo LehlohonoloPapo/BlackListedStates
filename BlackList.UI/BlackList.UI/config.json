@@ -1,0 +1,4 @@
+{
+  "ApiUrl": "",
+  "geolocationApi": "https://api.bigdatacloud.net/data/reverse-geocode-client"
+}
